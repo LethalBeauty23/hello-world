@@ -1,6 +1,2 @@
 # hello-world
-Starting out on GitHub
-
-...
-...writing things
-...
+Starting out in GitHub
